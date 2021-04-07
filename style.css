@@ -1,0 +1,8 @@
+body {
+    background: rgb(247, 232, 193);
+  } 
+
+  #picOfMe {
+      width: 700px;
+      height: 700px;
+  }
