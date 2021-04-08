@@ -3,6 +3,21 @@ body {
   } 
 
   #picOfMe {
-      width: 700px;
-      height: 700px;
+    align-content: center;
+    margin: right;
+    width: 700px;
+    height: 700px;
   }
+
+  h1 {
+    color: sienna;
+    background: tan;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  }
+
+  h2 {
+    color:sienna;
+    background: tan;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
