@@ -3,6 +3,7 @@ body {
   } 
 
   #picOfMe {
+    border-radius: 10px;
     align-content: center;
     margin: right;
     width: 700px;
