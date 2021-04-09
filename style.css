@@ -9,9 +9,9 @@ body {
     height: 700px;
   }
 
-  h1 {
-    color: sienna;
-    background: tan;
+  #myname {
+    color:rgb(198, 31, 31);
+    background: rgb(201, 216, 238);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
   }
 
@@ -21,3 +21,7 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
 
+#firstp {
+  color: rgb(96, 197, 220);
+  background: rgb(26, 2, 48);
+}
