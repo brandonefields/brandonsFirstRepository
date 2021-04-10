@@ -1,28 +1,32 @@
 body {
-    background: rgb(247, 232, 193);
-  } 
-
-  #picOfMe {
-    border-radius: 10px;
-    align-content: center;
-    margin: right;
-    width: 700px;
-    height: 700px;
-  }
-
-  #myname {
-    color:rgb(198, 31, 31);
-    background: rgb(201, 216, 238);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
-  }
-
-  h2 {
-    color:sienna;
-    background: tan;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  }
-
-#firstp {
-  color: rgb(96, 197, 220);
-  background: rgb(26, 2, 48);
+  background: rgb(247, 232, 193);
 }
+
+.tableContent {
+  font-family: monospace;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-right: 50px;
+
+
+}
+
+
+#myname {
+  color: rgb(198, 31, 31);
+  background: rgb(201, 216, 238);
+  background-position-x: center;
+  font-family: monospace;
+  font-size: 30px;
+}
+
+
+#picOfMe
+  margin-left: 100px;
+  border-radius: 10px;
+  align-content: center;
+  margin: right;
+  width: 700px;
+  height: 700px;
+}
+
