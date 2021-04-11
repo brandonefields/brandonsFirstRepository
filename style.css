@@ -1,32 +1,43 @@
 body {
-  background: rgb(247, 232, 193);
+  background-image:url(https://images.unsplash.com/photo-1534113578008-2092a17e5277?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=3800&q=80) ;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .tableContent {
+  text-shadow:1px 1px 1px blueviolet;
   font-family: monospace;
   font-size: 20px;
   margin-left: 20px;
-  margin-right: 50px;
-
-
+  margin-right: 50px; 
 }
 
-
 #myname {
-  color: rgb(198, 31, 31);
-  background: rgb(201, 216, 238);
-  background-position-x: center;
+  text-shadow: 3px 3px 5px blueviolet ;
+  color: rgb(211, 44, 44);
+  background: rgba(3, 32, 77, 0.5);
+  background-position-x: auto;
   font-family: monospace;
   font-size: 30px;
 }
 
-
-#picOfMe
-  margin-left: 100px;
-  border-radius: 10px;
-  align-content: center;
-  margin: right;
-  width: 700px;
-  height: 700px;
+#pic {
+  border-style: solid;
+  border-color: rgb(198, 31, 31);
+  max-width: 25%;
+  margin-left: 10px;
+  border-radius: 20px;
 }
 
+#about {
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+  border: none;
+  background-color:rgba(95, 71, 26, 0.60);
+  padding: 50px;
+  background
+  font-size: 40px;
+}
+
+/* background:linear-gradient(rgb(252, 225, 191),rgb(250, 176, 64));

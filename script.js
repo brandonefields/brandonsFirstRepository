@@ -1,4 +1,4 @@
-const clickThePic = document.getElementById('picOfMe');
+const clickThePic = document.getElementById('pic');
 
 clickThePic.addEventListener('click',function() {
     alert("Ouch!!! You just clicked my face!");
